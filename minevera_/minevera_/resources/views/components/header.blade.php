@@ -1,4 +1,4 @@
-<header id="header" class="header fixed-top d-flex align-items-center">
+<header id="header" class="header fixed-top d-flex align-items-center mb-6">
     <div class="container d-flex align-items-center justify-content-between">
         <a href="{{ route('home') }}" class="logo d-flex align-items-center me-auto me-lg-0">
             <img src="{{ asset('favicon/android-chrome-192x192.png') }}" class="img-fluid img-thumbnail" alt="logo">

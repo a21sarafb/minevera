@@ -590,21 +590,14 @@ form {
   padding: 20px;
 }
 
-.input-group {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 20px;
+.ingredientes .input-group {
+  width: 100%;
+  box-sizing: border-box;
 }
 
-.input-group label {
-  flex-basis: 100%;
-  margin-bottom: 10px;
-}
-
-.input-group input,
-.input-group textarea {
-  flex-grow: 1;
-  margin-right: 20px;
+.ingredientes input {
+  width: 100%;
+  box-sizing: border-box;
 }
 
 

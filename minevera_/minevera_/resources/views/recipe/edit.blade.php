@@ -14,8 +14,10 @@
     @include('components.header')
     <!-- ======= Main ======= -->
     @include('main.mainEditRec')
-    <!-- file JS Files -->
-    @include('components.jsFiles')
+    <!-- ======= Footer ======= -->
+    @include('components.footer')
+    
 </body>
-
+<!-- file JS Files -->
+@include('components.jsFiles')
 </html>
